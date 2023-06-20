@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhfide
-- 👀 I’m interested in Sports
+- 👀 I’m interested in Sports,mysterious things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
